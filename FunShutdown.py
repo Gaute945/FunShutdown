@@ -34,4 +34,4 @@ noti.show_toast(
 )
 playsound("FunShutdown/pipes.mp3")
 
-os.system("shutdown /s /t 1")
+#os.system("shutdown /s /t 1")
