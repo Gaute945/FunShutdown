@@ -9,28 +9,28 @@ noti = ToastNotifier()
 noti.show_toast(
     "På tide og sova",
     "3",
-    duration=0,
+    duration=1,
 )
 playsound("FunShutdown/pipes.mp3")
 
 noti.show_toast(
     "På tide og sova",
     "2",
-    duration=0,
+    duration=1,
 )
 playsound("FunShutdown/pipes.mp3")
 
 noti.show_toast(
     "På tide og sova",
     "1",
-    duration=0,
+    duration=1,
 )
 playsound("FunShutdown/pipes.mp3")
 
 noti.show_toast(
     "På tide og sova",
     "0",
-    duration=0,
+    duration=1,
 )
 playsound("FunShutdown/pipes.mp3")
 
