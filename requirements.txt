@@ -1,0 +1,2 @@
+win10toast==0.9
+preferredsoundplayer==0.0.5
