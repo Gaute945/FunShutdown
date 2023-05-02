@@ -1,4 +1,4 @@
-# __BruteForceWList__
+# __FunShutdown__
 ##### How to use
 1. pip install requirements.txt
 2. Launch FunShutdown.py/ps1 or Improved_Shutdown.py
